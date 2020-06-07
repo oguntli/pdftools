@@ -525,3 +525,4 @@ bin
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 
 # End of https://www.toptal.com/developers/gitignore/api/csharp,fsharp,visualstudio,visualstudiocode
+.DS_Store
